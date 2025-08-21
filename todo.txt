@@ -1,0 +1,2 @@
+"1. Finish Git assignment" 
+"2. Revise linked list code" 
